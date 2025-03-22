@@ -1,0 +1,11 @@
+/Users/sergejbaskirov/RiderProjects/Lab-11/ToolLibrary/bin/Debug/net8.0/ToolLibrary.deps.json
+/Users/sergejbaskirov/RiderProjects/Lab-11/ToolLibrary/bin/Debug/net8.0/ToolLibrary.dll
+/Users/sergejbaskirov/RiderProjects/Lab-11/ToolLibrary/bin/Debug/net8.0/ToolLibrary.pdb
+/Users/sergejbaskirov/RiderProjects/Lab-11/ToolLibrary/obj/Debug/net8.0/ToolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejbaskirov/RiderProjects/Lab-11/ToolLibrary/obj/Debug/net8.0/ToolLibrary.AssemblyInfoInputs.cache
+/Users/sergejbaskirov/RiderProjects/Lab-11/ToolLibrary/obj/Debug/net8.0/ToolLibrary.AssemblyInfo.cs
+/Users/sergejbaskirov/RiderProjects/Lab-11/ToolLibrary/obj/Debug/net8.0/ToolLibrary.csproj.CoreCompileInputs.cache
+/Users/sergejbaskirov/RiderProjects/Lab-11/ToolLibrary/obj/Debug/net8.0/ToolLibrary.dll
+/Users/sergejbaskirov/RiderProjects/Lab-11/ToolLibrary/obj/Debug/net8.0/refint/ToolLibrary.dll
+/Users/sergejbaskirov/RiderProjects/Lab-11/ToolLibrary/obj/Debug/net8.0/ToolLibrary.pdb
+/Users/sergejbaskirov/RiderProjects/Lab-11/ToolLibrary/obj/Debug/net8.0/ref/ToolLibrary.dll
